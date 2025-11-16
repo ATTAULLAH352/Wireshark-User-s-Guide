@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Wireshark Logo](https://www.wireshark.org/assets/images/wireshark-logo.png)
+![Wireshark Logo](https://commons.wikimedia.org/wiki/File:Wireshark_Logo.svg)
 
 **The Ultimate Guide to Network Protocol Analysis with Wireshark**
 
